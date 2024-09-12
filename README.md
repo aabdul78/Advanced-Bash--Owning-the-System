@@ -25,4 +25,9 @@ sudo groupmod -g 100 sysd
 ![image](https://github.com/user-attachments/assets/c81edddb-84a0-4721-92e6-6f8201d643fc)
 
 
+Give your secret user full sudo access without the need for a password: Your solution command here
+
+sudo visudo
+![image](https://github.com/user-attachments/assets/0c2a0553-2e1e-43b6-a04d-71cd45d55edf)
+
 
